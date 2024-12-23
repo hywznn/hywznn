@@ -1,6 +1,6 @@
 👋 Hi, I’m @hywznn
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hywznn)](https://github.com/hywznn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hywznn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
