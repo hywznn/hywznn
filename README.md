@@ -20,7 +20,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choihj0510)](https://solved.ac/choihj0510/)
 
 **Contact**  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hywznn/)] (https://www.linkedin.com/in/hywznn/)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://hywznn.github.io) [![Email](https://img.shields.io/badge/choihj0510%40naver.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:choihj0510@naver.com)
+[![LinkedIn](https://img.shields.io/badge/hywznn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hywznn) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://hywznn.github.io) [![Email](https://img.shields.io/badge/choihj0510%40naver.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:choihj0510@naver.com)
 
 </div>
 
