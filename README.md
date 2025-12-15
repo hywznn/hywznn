@@ -20,6 +20,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hywznn)](https://solved.ac/hywznn)
 
 **Contact**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hywznn) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://hywznn.github.io) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:choihj0510@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hywznn) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://hywznn.github.io) [![choihj0510@naver.com](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:choihj0510@naver.com)
 
 </div>
