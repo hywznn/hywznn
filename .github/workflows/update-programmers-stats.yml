@@ -20,10 +20,10 @@ jobs:
       - name: Count solved problems
         id: count
         run: |
-          # 프로그래머스 레포지토리에서 .js 파일 수 카운트
-          COUNT=$(curl -s -H "Accept: application/vnd.github.v3+json" \
-            "https://api.github.com/repos/hywznn/programmers/git/trees/main?recursive=1" | \
-            grep -o '"path": "[^"]*\.js"' | wc -l || echo "0")
+          # 프로그래머스 레포지토리 클론하여 .js 파일 수 카운트
+          git clone --depth 1 https://github.com/hywznn/programmers.git temp-repo || exit 1
+          COUNT=$(find temp-repo -name "*.js" -type f | grep -v node_modules | wc -l)
+          rm -rf temp-repo
           echo "count=$COUNT" >> $GITHUB_OUTPUT
           echo "Solved problems: $COUNT"
 
@@ -37,11 +37,15 @@ jobs:
             
             // 프로그래머스 배지 패턴 찾기 및 업데이트
             const badgePattern = /\[!\[Programmers\][^\]]+\]\([^)]+\)/;
-            const newBadge = `[![Programmers](https://img.shields.io/badge/Programmers-${count}%20solved-1E8E3E?style=flat-square&logo=Programmers&logoColor=white)](https://programmers.co.kr/profiles/hywznn)`;
+            const newBadge = `[![Programmers](https://img.shields.io/badge/Programmers-${count}%20solved-1E8E3E?style=flat-square&logo=Programmers&logoColor=white)](https://programmers.co.kr/profiles/choihj0510)`;
             
             if (badgePattern.test(readme)) {
               readme = readme.replace(badgePattern, newBadge);
+            } else {
+              console.log('Programmers badge pattern not found');
             }
+            
+            console.log(`Updated count: ${count}`);
             
             fs.writeFileSync('README.md', readme);
 
