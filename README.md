@@ -17,7 +17,7 @@
 **DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-[![백준](https://img.shields.io/badge/Baekjoon-0089CE?style=flat-square&logo=Baekjoon&logoColor=white)](https://www.acmicpc.net/user/choihj0510)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choihj0510)](https://solved.ac/choihj0510)
 
 **Contact**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hywznn) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://hywznn.github.io) [![Email](https://img.shields.io/badge/choihj0510%40naver.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:choihj0510@naver.com)
