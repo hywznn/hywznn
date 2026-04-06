@@ -4,7 +4,7 @@
 ***Bachelor of Engineering*** in Visual Technology | **College of AI Convergence, Kwangwoon Univ.** *(Expected Aug. 2026)*
 
 ## Experience
-**[2025.08 ~ Present] DLab 구월점** | Instructor / Coach
+**[2025.08 ~ Present] DLab 구월점** ***Instructor*** : *python/pygame, Java, Scratch, AppInventor*
 
 ## Awards
 **[2025-11] 🏅 장려상** : **Figma 기반 UI 테스트 자동화** | 광운대학교 정보융합학부 졸업작품전시회  
