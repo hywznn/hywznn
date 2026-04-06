@@ -16,7 +16,7 @@
 
 ## Activities
 **[Beta Reader]** :『앱 개발 트러블슈팅 with 리액트 네이티브』*(2026.01-02)*  
-**[UMC 5th–8th]** : KW Univ. **VP (8th)** · **Web(React) Part Leader (7th)** · **Server(Spring) Member (6th)** *(2023.09-2025.08)*  
+**[UMC 5th–8th]** : KW Univ. **VP (8th)** · **Web(React) Part Leader (7th), Memeber(5th)** · **Server(Spring) Member (6th)** *(2023.09-2025.08)*  
 **[SW Education Volunteer Group: SOWON]** : **Volunteer Member** · **Hackathon Lead Instructor** *(2023.09-2024.12)*  
 
 ## Credentials
