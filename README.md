@@ -15,7 +15,7 @@
 **[2025-03 ~ 2025-11] [Figma 기반 UI 테스트 자동화](https://github.com/KW-AUTA/client)** : Design/Client(Web) | React/TypeScript
 
 ## Activities
-**[UMC 5th–8th]** | KW Univ. **VP (8th)** · **Web(React) Part Leader (7th)** · **Server(Spring) Member (6th)** *(2023.09-2025.08)*  
+**[UMC 5th–8th]** : KW Univ. **VP (8th)** · **Web(React) Part Leader (7th)** · **Server(Spring) Member (6th)** *(2023.09-2025.08)*  
 **[Beta Reader]** :『앱 개발 트러블슈팅 with 리액트 네이티브』*(2026.01-02)*
 
 ## Patent
