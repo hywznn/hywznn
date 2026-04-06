@@ -12,8 +12,8 @@
   - 작품명: **마스크 지갑**
 
 ## 📌 Project
-- **[2025-03 ~ 2025-11] Figma 기반 UI 테스트 자동화** : Design/Client(Web) - React/TypeScript
 - **[2025-07 ~ 2025-12] 미생물 음식물 처리기 앱** : Client(App) - ReactNative/Expo
+- **[2025-03 ~ 2025-11] Figma 기반 UI 테스트 자동화** : Design/Client(Web) - React/TypeScript
 
 ## 📌 Patent
 
