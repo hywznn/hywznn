@@ -11,8 +11,8 @@
 **[2020-06] 🏅 우수상** : **마스크 지갑** | 광운대학교 정보융합학부 공학설계입문전시회
 
 ## Project
-**[2025-07 ~ 2025-12] [미생물 음식물 처리기 앱](https://github.com/hanibi-app/client)** : Client(App) | ReactNative/Expo  
-**[2025-03 ~ 2025-11] [Figma 기반 UI 테스트 자동화](https://github.com/KW-AUTA/client)** : Design/Client(Web) | React/TypeScript
+**[2025-07 ~ 2025-12]** [한니비](https://github.com/hanibi-app/client) — 미생물 음식물 처리기 앱 | Client(App) | React Native / Expo  
+**[2025-03 ~ 2025-11]** [AUTA](https://github.com/KW-AUTA/client) — Figma 기반 UI 테스트 자동화 | Design / Client(Web) | React / TypeScript
 
 ## Activities
 **[UMC 5th–8th]** : KW Univ. **VP (8th)** · **Web(React) Part Leader (7th)** · **Server(Spring) Member (6th)** *(2023.09-2025.08)*  
