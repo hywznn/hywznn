@@ -1,6 +1,6 @@
 <div align="left">
 
-## 💻 Job Experience
+## 💻 Experience
 
 - **[2025.08 ~ Present] DLab 구월점** — Instructor / Coach
 
