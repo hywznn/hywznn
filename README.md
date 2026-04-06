@@ -11,8 +11,8 @@
 **[2020-06] 🏅 우수상** : **마스크 지갑** | 광운대학교 정보융합학부 공학설계입문전시회
 
 ## Project
-**[2025-07 ~ 2025-12] 미생물 음식물 처리기 앱** : Client(App) | ReactNative/Expo  
-**[2025-03 ~ 2025-11] Figma 기반 UI 테스트 자동화** : Design/Client(Web) | React/TypeScript
+**[2025-07 ~ 2025-12] [미생물 음식물 처리기 앱](https://github.com/hanibi-app/client)** : Client(App) | ReactNative/Expo  
+**[2025-03 ~ 2025-11] [Figma 기반 UI 테스트 자동화](https://github.com/KW-AUTA/client)** : Design/Client(Web) | React/TypeScript
 
 ## Activities
 **Technical Review** :『앱 개발 트러블슈팅 with 리액트 네이티브』 Beta Reader
