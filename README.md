@@ -7,12 +7,12 @@
 **[2025.08 ~ Present] DLab 구월점** ***Instructor*** : *python/pygame, Java, Scratch, AppInventor, HTML/CSS(Spec. Lec.)*
 
 ## Awards
-**[2025-11] 🏅 장려상** : **Figma 기반 UI 테스트 자동화** | 광운대학교 정보융합학부 졸업작품전시회  
+**[2025-11] 🏅 장려상** : **Figma 기반 UI 테스트 자동화(AUTA)** | 광운대학교 정보융합학부 졸업작품전시회  
 **[2020-06] 🏅 우수상** : **마스크 지갑** | 광운대학교 정보융합학부 공학설계입문전시회
 
 ## Project
-**[2025-07 ~ 2025-12]** [한니비](https://github.com/hanibi-app/client) : 미생물 음식물 처리기 앱 | Client(App) | React Native / Expo  
-**[2025-03 ~ 2025-11]** [AUTA](https://github.com/KW-AUTA/client) : Figma 기반 UI 테스트 자동화 | Design / Client(Web) | React / TypeScript
+**미생물 음식물 처리기 앱 · [한니비](https://github.com/hanibi-app/client)** | **Client(App)** | *ReactNative / Expo*  *(2025-07 ~ 2025-12)*  
+**Figma 기반 UI 테스트 자동화 · [AUTA](https://github.com/KW-AUTA/client)** | **Design / Client(Web)** | *React / TypeScript*  *(2025-03 ~ 2025-11)*
 
 ## Activities
 **[Beta Reader]** :『앱 개발 트러블슈팅 with 리액트 네이티브』*(2026.01-02)*  
