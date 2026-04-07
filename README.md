@@ -21,7 +21,7 @@
 
 ## Credentials
 **ADsP** : 데이터분석 준전문가 *(K-DATA / 2025.11.28)*  
-**Micro Module** : 초급(이공계) · 중급(로봇지능) · 고급(AI시스템) 과정 이수
+**Micro Module** : 초급(이공계) · 중급(로봇지능) · 고급(AI시스템) 과정 이수 *(KW Univ. Shared AI-Robotics Edu.)*
 
 ## Scholarship
 **BIMA Scholarship** : Awarded to students ranked in the **top 10%** of the previous semester *(2025-2, KRW 1,118,000)*  
