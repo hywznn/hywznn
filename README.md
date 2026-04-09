@@ -25,7 +25,7 @@
 
 ## Scholarship
 **BIMA Scholarship** : Awarded to students ranked in the **top 10%** of the previous semester *(2025-2, KRW 1,118,000)*  
-**Micro Module Scholarship** : 고급(AI시스템) 성적우수장학금 *(2025-1, KRW 500,000)*  
+**Micro Module Scholarship** : 고급-AI시스템 성적우수장학금 *(2025-1, KRW 500,000)*  
 
 ## Patent
 **Patent Pending (KR | 10-2026-00XXXXXX | 2026-02-13)**: 디자인 정보 기반 웹 서비스의 **UI/UX 자동 검증 및 리포팅**을 위한 서비스 제공 장치 및 방법  
