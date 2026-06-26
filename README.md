@@ -1,7 +1,8 @@
 <div align="left">
   
 ## Education
-***Bachelor of Engineering*** in Visual Technology | **College of AI Convergence, Kwangwoon Univ.** *(Expected Aug. 2026)*
+**Bachelor of Engineering** · *College of AI Convergence*, Kwangwoon Univ. · Exp. 2026.08 · GPA: **3.87 / 4.5**  
+**KT AIVLE School 9th AI Track** · 2026.03 – 2026.09  
 
 ## Experience
 **[2025.08 ~ Present] DLab 구월점** ***Instructor*** : *python/pygame, Java, Scratch, AppInventor, HTML/CSS(Spec. Lec.)*
