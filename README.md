@@ -12,9 +12,9 @@
 **[2020-06] 🏅 우수상** : **마스크 지갑** | 광운대학교 정보융합학부 공학설계입문전시회
 
 ## Project
-**대청호 유해남조류 경보 예측 AI 모델· [춘배](https://github.com/Chunbae-A/model)** | **AI Modeling / Data Analysis** | *Python / scikit-learn / LightGBM / XGBoost / SHAP* *(2026.04 ~ )*  
-**미생물 음식물 처리기 앱 · [한니비](https://github.com/hanibi-app/client)** | **Client(App)** | *ReactNative / Expo*  *(2025-07 ~ 2025-12)*  
-**Figma 기반 UI 테스트 자동화 · [AUTA](https://github.com/KW-AUTA/client)** | **Design / Client(Web)** | *React / TypeScript*  *(2025-03 ~ 2025-11)*
+**대청호 유해남조류 경보 예측 AI 모델· [춘배](https://github.com/Chunbae-A/model)** | **AI Modeling / Data Analysis** | *Python / scikit-learn / HuberRegressor / SHAP* *(2026.04 ~ 06)*  
+**미생물 음식물 처리기 앱 · [한니비](https://github.com/hanibi-app/client)** | **Client(App)** | *ReactNative / Expo*  *(2025-07 ~ 12)*  
+**Figma 기반 UI 테스트 자동화 · [AUTA](https://github.com/KW-AUTA/client)** | **Design / Client(Web)** | *React / TypeScript*  *(2025-03 ~ 11)*
 
 ## Activities
 **[Beta Reader]** :『앱 개발 트러블슈팅 with 리액트 네이티브』*(2026.01-02)*  
