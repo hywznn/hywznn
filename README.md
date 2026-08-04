@@ -5,7 +5,7 @@
 **KT AIVLE School 9th AI Track** · 2026.03 – 2026.09  
 
 ## Experience
-**[2025.08 ~ Present] DLab 구월점** ***Instructor*** : *python/pygame, Java, Scratch, AppInventor, HTML/CSS(Spec. Lec.)*
+**[2025.08 ~ Present] DLab 구월점** ***Instructor*** : *python/pygame, Java, Scratch, AppInventor, Unity2D, HTML/CSS(Spec. Lec.)*
 
 ## Awards
 **[2025-11] 🏅 장려상** : **Figma 기반 UI 테스트 자동화(AUTA)** | 광운대학교 정보융합학부 졸업작품전시회  
