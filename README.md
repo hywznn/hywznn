@@ -25,7 +25,7 @@
 
 ## Activities
 
-**[AI Competition Study · [춘배](https://github.com/Chunbae-A)]** : KT AIVLE School 교육기간 중 자율 공모전 스터디 활동 · **AI 공모전 3회 참여, 예선 통과 및 본선 발표 1회, 아이디어상 1회** *(2026.04 ~ 09)*  
+**[AI Competition Study · [춘배](https://github.com/Chunbae-A)]** : KT AIVLE School 교육기간 중 자율 공모전 스터디 활동 · **AI 공모전 3회 참여, 본선 발표 1회, 아이디어상 1회** *(2026.04 ~ 09)*  
 **[Beta Reader]** : 『앱 개발 트러블슈팅 with 리액트 네이티브』 *(2026.01 ~ 02)*  
 **[UMC 5th–8th]** : KW Univ. **VP(8th)** · **Web(React) Part Leader(7th), Member(5th)** · **Server(Spring) Member(6th)** *(2023.09 ~ 2025.08)*  
 **[SW Education Volunteer Group: SOWON]** : **Volunteer Member** · **Hackathon Lead Instructor** *(2023.09 ~ 2024.12)*
