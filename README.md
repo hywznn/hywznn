@@ -27,7 +27,7 @@ AI·데이터 기반 문제 해결을 웹·앱 서비스 구현까지 연결하�
 - **기술** · Python · FastAPI · ONNX · Docker
 - **성과** · 얼굴 분석 모델을 API 및 서비스 흐름으로 연결 · **제8회 K-Digital Training 해커톤 아이디어상**
 
-### [Chemicheck119](https://github.com/chemicheck119)
+### [Chemicheck119](https://github.com/chemicheck119-lab)
 **소방안전 빅데이터 기반 화학사고 현장대응 서비스**
 
 - **기간** · 2026.07 – 09
