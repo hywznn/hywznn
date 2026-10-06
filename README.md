@@ -2,8 +2,7 @@
 
 # Hyunjun Choi
 
-AI·데이터 기반 문제 해결을 웹·앱 서비스 구현까지 연결하며 **예측 오차 18% 개선, AI 해커톤 수상, UI/UX 자동 검증 기술 특허 출원** 등의 결과를 만들어왔습니다. 이를 바탕으로 기술적 성능뿐 아니라 **사용자가 활용할 수 있는 형태까지 구현**하는 개발을 지향합니다. 
-
+AI·데이터 기반 문제 해결을 웹·앱 서비스 구현까지 연결하며 **예측 오차 18% 개선, AI 해커톤 수상, UI/UX 자동 검증 기술 특허 공동발명·출원** 등의 결과를 만들어왔습니다. 이를 바탕으로 기술적 성능뿐 아니라 **사용자가 활용할 수 있는 형태까지 구현**하는 개발을 지향합니다.
 
 **Kwangwoon Univ.** · Information Convergence  
 **KT AIVLE School 9th** · AI Track
@@ -58,7 +57,7 @@ AI·데이터 기반 문제 해결을 웹·앱 서비스 구현까지 연결하�
 - **기간** · 2025.03 – 12
 - **담당** · Design · Client (Web)
 - **기술** · React · TypeScript
-- **성과** · 광운대학교 정보융합학부 졸업작품전시회 **장려상** · UI/UX 자동 검증 기술 **특허 출원**
+- **성과** · 광운대학교 정보융합학부 졸업작품전시회 **장려상** · **산학협력 연계** · UI/UX 자동 검증 기술 **특허 공동발명 및 출원**
 
 <br>
 
@@ -72,6 +71,13 @@ AI·데이터 기반 문제 해결을 웹·앱 서비스 구현까지 연결하�
 
 <br>
 
+## 💼 Experience
+
+**D.LAB Coding Academy · Instructor** `2025.08 – Present`  
+Python/Pygame · Java · Unity 2D · HTML/CSS 기반 소프트웨어 교육
+
+<br>
+
 ## 🌱 Activities
 
 **KT AIVLE School 9th · AI Track** `2026.03 – 09`  
@@ -82,6 +88,9 @@ AI 공모전 **3회 참여 · 본선 발표 1회 · 아이디어상 1회**
 
 **UMC 5th–8th** `2023.09 – 2025.08`  
 VP (8th) · Web/React Part Leader (7th) · Server/Spring Member (6th) · Web Member (5th)
+
+**SOWON · Software Education Volunteer** `2023.09 – 2024.12`  
+micro:bit · App Inventor 소프트웨어 교육 봉사 · Hackathon Lead Instructor
 
 <br>
 
