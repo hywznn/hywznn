@@ -1,53 +1,93 @@
 <div align="left">
-  
-## Education
 
-**Bachelor of Engineering** · *College of AI Convergence*, Kwangwoon Univ. · Graduated 2026.08 · GPA: **3.87 / 4.5**  
-**KT AIVLE School 9th AI Track** · 2026.03 – 2026.09  
+# Hyunjun Choi
 
-## Experience
+AI·데이터 기반 문제 해결을 웹·앱 서비스 구현까지 연결하며 **예측 오차 18% 개선, AI 해커톤 수상, UI/UX 자동 검증 기술 특허 출원** 등의 결과를 만들어왔습니다. 이를 바탕으로 기술적 성능뿐 아니라 **사용자가 활용할 수 있는 형태까지 구현**하는 개발을 지향합니다. 
 
-**[2025.08 ~ Present] DLab 구월점** ***Instructor*** : *Python/Pygame, Java, Unity 2D, HTML/CSS*
 
-## Awards
+**Kwangwoon Univ.** · Information Convergence  
+**KT AIVLE School 9th** · AI Track
 
-**[2026-09] 🏅 아이디어상** : **DeepSogak** | 제8회 K-Digital Training 해커톤  
-**[2025-11] 🏅 장려상** : **Figma 기반 UI 테스트 자동화(AUTA)** | 광운대학교 정보융합학부 졸업작품전시회  
+<br>
 
-## Project
+## 🚀 Projects
 
-**E-9 외국인 근로자 HR·행정업무 AI 보조 서비스 · [FOWOCO](https://github.com/fowoco/server)** | **TPM / Product Design / Backend Integration** | *Java / Spring Boot / PostgreSQL* *(2026.06 ~ 08)*  
-**AI 얼굴인식 기반 딥페이크 피해 전주기 지원 서비스 · [DeepSogak](https://github.com/Chunbae-A/deepsogak)** | **AI Modeling / Model API** | *Python / FastAPI / ONNX / Docker* | **아이디어상 수상** *(2026.07 ~ 08)*  
-**소방안전 빅데이터 기반 화학사고 현장대응 서비스 · [Chemicheck119](https://github.com/chemicheck119)** | **Full Stack / AI Modeling / GCP Deployment** | *React / TypeScript / Spring Boot / FastAPI / GCP* *(2026.07 ~ 08)*  
-**대청호 유해남조류 경보 예측 AI 모델 · [춘배](https://github.com/Chunbae-A/model)** | **AI Modeling / Data Analysis** | *Python / scikit-learn / HuberRegressor / SHAP* | **예선 통과·본선 발표** *(2026.04 ~ 06)*  
-**미생물 음식물 처리기 앱 · [한니비](https://github.com/hanibi-app/client)** | **Client(App)** | *React Native / Expo / WebSocket* *(2025.07 ~ 12)*  
-**Figma 기반 UI 테스트 자동화 · [AUTA](https://github.com/KW-AUTA/client)** | **Design / Client(Web)** | *React / TypeScript* | **장려상·특허 출원** *(2025.03 ~ 11)*  
+### [FOWOCO](https://github.com/fowoco/server)
+**E-9 외국인 근로자 HR·행정업무 AI 보조 서비스**
 
-## Activities
+- **기간** · 2026.06 – 08
+- **담당** · TPM · Product Design · Backend Integration
+- **기술** · Java · Spring Boot · PostgreSQL
+- **성과** · 재계약·취업활동기간 연장·체류기간 연장 업무를 지원하는 AI Workflow MVP 구현
 
-**[AI Competition Study · [춘배](https://github.com/Chunbae-A)]** : KT AIVLE School 교육기간 중 자율 공모전 스터디 활동 · **AI 공모전 3회 참여, 본선 발표 1회, 아이디어상 1회** *(2026.04 ~ 09)*  
-**[Beta Reader]** : 『앱 개발 트러블슈팅 with 리액트 네이티브』 *(2026.01 ~ 02)*  
-**[UMC 5th–8th]** : KW Univ. **VP(8th)** · **Web(React) Part Leader(7th), Member(5th)** · **Server(Spring) Member(6th)** *(2023.09 ~ 2025.08)*  
-**[SW Education Volunteer Group: SOWON]** : **Volunteer Member** · **Hackathon Lead Instructor** *(2023.09 ~ 2024.12)*
+### [DeepSogak](https://github.com/Chunbae-A/deepsogak)
+**AI 얼굴인식 기반 딥페이크 피해 전주기 지원 서비스**
 
-## Credentials
+- **기간** · 2026.07 – 08
+- **담당** · AI Modeling · Model API
+- **기술** · Python · FastAPI · ONNX · Docker
+- **성과** · 얼굴 분석 모델을 API 및 서비스 흐름으로 연결 · **제8회 K-Digital Training 해커톤 아이디어상**
 
-**ADsP** : 데이터분석 준전문가 *(K-DATA / 2025.11.28)*  
-**Micro Module** : 고급 AI시스템 과정 이수 *(KW Univ. Shared AI-Robotics Education)*
+### [Chemicheck119](https://github.com/chemicheck119)
+**소방안전 빅데이터 기반 화학사고 현장대응 서비스**
 
-## Scholarship
+- **기간** · 2026.07 – 09
+- **담당** · AI Modeling · GCP Deployment
+- **기술** · React · TypeScript · Spring Boot · FastAPI · GCP
+- **성과** · AI·모델 API와 웹서비스를 연동하고 GCP 환경에 배포하여 전체 서비스 흐름 검증
 
-**BIMA Scholarship** : Awarded to students ranked in the **top 10%** of the previous semester *(2025-2)*  
-**Micro Module Scholarship** : 고급 AI시스템 과정 성적우수 *(2025-1)*  
+### [Daecheong Lake Algae Prediction](https://github.com/Chunbae-A/model)
+**수질·기상·댐 운영 데이터를 활용한 대청호 유해남조류 경보 예측**
 
-## Patent
+- **기간** · 2026.04 – 06
+- **담당** · AI Modeling · Data Analysis
+- **기술** · Python · scikit-learn · HuberRegressor · SHAP
+- **성과** · 회귀 RMSE **0.7987 → 0.6578 (약 18% 개선)** · 예선 통과 및 본선 발표
 
-**Patent Pending (KR | 10-2026-00XXXXXX | 2026-02-13)** : 디자인 정보 기반 웹 서비스의 **UI/UX 자동 검증 및 리포팅 기술**  
-출원인: 광운대학교 산학협력단 / **공동발명자**
+### [Hanibi](https://github.com/hanibi-app/client)
+**미생물 음식물 처리기 상태 확인·관리를 위한 연동 모바일 앱**
 
-## Contact
+- **기간** · 2025.07 – 12
+- **담당** · Client (App)
+- **기술** · React Native · Expo · WebSocket
+- **성과** · 처리기 상태 조회 및 사용자 관리 흐름을 모바일 앱으로 구현
 
-[![LinkedIn](https://img.shields.io/badge/hywznn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/hywznn)
-[![Email](https://img.shields.io/badge/choihj0510%40naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:choihj0510@naver.com)
+### [AUTA](https://github.com/KW-AUTA/client)
+**Figma 디자인과 실제 웹 화면을 비교하는 AI 기반 UI 테스트 자동화 서비스**
+
+- **기간** · 2025.03 – 12
+- **담당** · Design · Client (Web)
+- **기술** · React · TypeScript
+- **성과** · 광운대학교 정보융합학부 졸업작품전시회 **장려상** · UI/UX 자동 검증 기술 **특허 출원**
+
+<br>
+
+## 🛠 Tech
+
+**Languages** · Python · Java · TypeScript  
+**Frontend** · React · React Native · Expo  
+**Backend** · FastAPI · Spring Boot  
+**Database** · PostgreSQL  
+**DevOps / Cloud** · Docker · GitHub Actions · GCP
+
+<br>
+
+## 🌱 Activities
+
+**KT AIVLE School 9th · AI Track** `2026.03 – 09`  
+AI·데이터 교육 및 프로젝트
+
+**[Chunbae AI Competition Study](https://github.com/Chunbae-A)** `2026.04 – 09`  
+AI 공모전 **3회 참여 · 본선 발표 1회 · 아이디어상 1회**
+
+**UMC 5th–8th** `2023.09 – 2025.08`  
+VP (8th) · Web/React Part Leader (7th) · Server/Spring Member (6th) · Web Member (5th)
+
+<br>
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hywznn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hywznn)
+[![Email](https://img.shields.io/badge/Email-choi.hyunjun%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:choi.hyunjun@outlook.com)
 
 </div>
